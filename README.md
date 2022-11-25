@@ -58,9 +58,9 @@
 
 <p align="center">
 <a href="https://github.com/Aryan-Jadon18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan-Jadon18&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryan-Jadon18&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Jadon18&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan-Jadon18&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryan-Jadon18&theme=midnight-purple&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Jadon18&theme=midnight-purple"/>
 </a>
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 <a href="https://github.com/Aryan-Jadon18g">
-  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=Aryan-Jadon18&theme=chartreuse-dark"/>
+  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=Aryan-Jadon18&theme=nightowl"/>
 </a>
 </p>
 
