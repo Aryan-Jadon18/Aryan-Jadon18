@@ -3,7 +3,7 @@
 <p align="center"> (Open for Hiring)</p>
 <br>
 
-<h3 align="center">Taking new challenges and learning from it. Currently working on some exciting WEB DEV project and leaning DSA. I just want to perfect my Web Developement in upcoming months and collaborate with new people. Anyone who wants to join me in this process is welcome! (❁´◡`❁).</h3>
+<h3 align="center">Taking new challenges and learning from it. Currently working on some exciting WEB DEV projects and learning DSA. I really want to perfect my Web Developement in upcoming months and collaborate with new people. Anyone who wants to join me in this process is welcome! (❁´◡`❁).</h3>
 
 <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="aryan" /> 
   
