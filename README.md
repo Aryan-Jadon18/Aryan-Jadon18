@@ -14,7 +14,7 @@
 <a href="#" ><img align="right" height="auto" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="aj" height="100%" width="500px" /></a>
 
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 👯 I’m looking to collaborate on **Exciting Web Developement Projects**
 
