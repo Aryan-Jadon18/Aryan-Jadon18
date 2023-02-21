@@ -64,7 +64,6 @@
 </a>
 </p>
 
-## ⚔My github activity graph
 
 <p align="center">
   <br>
