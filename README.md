@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Jadon 👦.</h1>
 
-<p align="center"> (Open for Hiring)</p>
 <br>
 
 <h3 align="center">Taking new challenges and learning from it. Currently working on some exciting WEB DEV projects and learning DSA. I really want to perfect my Web Developement in upcoming months and collaborate with new people. Anyone who wants to join me in this process is welcome! (❁´◡`❁).</h3>
 
-<h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="aryan" /> 
   
  </p></h2>
 
@@ -75,10 +73,8 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding👨‍💻!"
+        
     </p>
 </samp>
 <br>
-
-<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 <br>
