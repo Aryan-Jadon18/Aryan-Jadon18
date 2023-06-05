@@ -2,10 +2,12 @@
 
 <br>
 
-<h3 align="center">Working on AI models that can generate a very short summary of a research paper or patent. Anyone who wants to join me in this process is welcomed! (❁´◡`❁).</h3>
+<h3 align="center">Working on AI models that can generate a very short summary of a research paper or patent. Anyone who wants to join me in this process is welcomed!.</h3>
 
-  
- </p></h2>
+<details>
+  <summary>More of myself</summary>
+  <p>I'm in final year at SRM Uniersity, ktr, India. <br> I have done web developement in first year, but later got introduced to AI,ML,Python. Through these 2 years, I've seen AI from being just a potential to being a norm in everone's daily life. I consider myself fortunate to be in this era of AI, and be one of the contributors to this field and it's applications for good.</p>
+</details>
 
 <br>
 
@@ -14,6 +16,7 @@
 <br>
 
 <p align="left">
+  
 <a href="https://twitter.com/@AryanSi18261284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vartika05" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryan-j-4971ab1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vartika-yaduvanshi-162b40198" height="30" width="40" /></a>
 <a href="https://www.instagram.com/xplicitly_stellarized/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vartika_511" height="30" width="40" /></a>
