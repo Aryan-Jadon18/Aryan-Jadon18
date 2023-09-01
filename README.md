@@ -18,9 +18,9 @@
 <p align="left">
   <details>
     <summary>Socials:</summary>
-<a href="https://twitter.com/@AryanSi18261284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vartika05" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aryan-j-4971ab1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vartika-yaduvanshi-162b40198" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xplicitly_stellarized/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vartika_511" height="30" width="40" /></a>
+<a href="https://twitter.com/@AryanSi18261284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AryanSi18261284" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-j-4971ab1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-j-4971ab1b7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aryan_s_jadon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_s_jadon" height="30" width="40" /></a>
 </p></details>
 <br>
 
