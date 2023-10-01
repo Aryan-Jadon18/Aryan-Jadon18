@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan Jadon.</h1>
-
 <br>
 
 <h3 align="center">Working on AI models that can generate a very short summary of a research paper or patent. Anyone who wants to join me in this process is welcomed!.</h3>
@@ -10,7 +9,6 @@
 </details>
 
 <br>
-
 <a href="#" ><img align="right" height="auto" src="https://33.media.tumblr.com/9071dbfc51256c4955f0d2c95ba4c0a9/tumblr_nkc0rdZE0p1rpco88o1_500.gif" alt="aj" height="100%" width="500px" /></a>
 
 <br>
@@ -28,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<b>C <br>C++ <br>Python  <br>Java  <br>Tensorflow  <br>AWS(Cloud Practitioner) <br>Javascript <br>MongoDB  <br>SQL  <br>ExpresssJS  <br>Pandas  <br>Numpy <br>keras</b></p>
+<b>C <br>C++ <br>Python  <br>Java  <br>Tensorflow  <br>AWS(Cloud Practitioner) <br>Javascript <br>MongoDB  <br>SQL  <br>ExpresssJS </b></p>
  <br> <br>
   
 <p align="center">
