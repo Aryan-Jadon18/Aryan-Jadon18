@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<b>C <br>C++ <br>Python  <br>Java  <br>Tensorflow  <br>AWS(Cloud Practitioner) <br>Javascript <br>MongoDB  <br>SQL  <br>ExpresssJS </b></p>
+<b>C <br>C++ <br>Python  <br>Java  <br>Tensorflow  <br>AWS(Cloud Practitioner) <br>Javascript <br>MongoDB  <br>SQL  <br>Artificial Intelligence and Machine Learning</b></p>
  <br> <br>
   
 <p align="center">
