@@ -75,7 +75,7 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
-
+<!--
 <p align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</p>
+</p>-->
