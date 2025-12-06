@@ -10,6 +10,8 @@
   <a href="https://www.linkedin.com/in/aryan-j-4971ab1b7/">🔗 LinkedIn</a>
 </p>
 
+
+
 ---
 
 ### 🚀 About Me
@@ -61,6 +63,11 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
 - **Common Internship Test Winner** – Internship Studio (May 2023)  
 
 ---
+<p align="right">
+  <a href="https://www.buymeacoffee.com/aryanjadon" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+</p>
 <!--
 ### 📊 GitHub Stats
 <p align="center">
@@ -70,11 +77,7 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
 --
 -->
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aryanjadon" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174">
-  </a>
-</p>
+
 <!--
 <p align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
