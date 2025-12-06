@@ -63,9 +63,9 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
 - **Common Internship Test Winner** – Internship Studio (May 2023)  
 
 ---
-<p align="right">
+<p align="center">
   <a href="https://www.buymeacoffee.com/aryanjadon" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="34" width="174">
   </a>
 </p>
 <!--
