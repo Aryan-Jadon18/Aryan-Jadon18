@@ -58,10 +58,10 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
 - **Sign Language Detection** (IJFMR, Nov 2023)  
 
 ---
-
+<!--
 ### 🏆 Awards
 - **Common Internship Test Winner** – Internship Studio (May 2023)  
-
+-->
 ---
 <p align="center">
   <a href="https://www.buymeacoffee.com/aryanjadon" target="_blank">
