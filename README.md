@@ -57,7 +57,6 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
 - **FAIRMod – Harmful Language Detection** (IEEE, Apr 2024)  
 - **Sign Language Detection** (IJFMR, Nov 2023)  
 
----
 <!--
 ### 🏆 Awards
 - **Common Internship Test Winner** – Internship Studio (May 2023)  
@@ -73,12 +72,7 @@ Certified **AWS Cloud Practitioner**, passionate about building scalable web app
 <p align="center">
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aryan-Jadon18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aryan-Jadon18&layout=compact&hide_border=true&theme=radical" />
-</p>
---
--->
-
-
-<!--
+</p>-->
 <p align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</p>-->
+</p>
