@@ -1,3 +1,4 @@
+
 [![](https://raw.githubusercontent.com/Aryan-Jadon18/Aryan-Jadon18/main/banner.gif)](https://aryan-jadon-portfolio.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Aryan Singh Jadon</h1>
@@ -14,10 +15,10 @@
 
 ---
 
-### 🚀 About Me
-I’m an innovative software engineer with a strong foundation in **React.js, full‑stack development, cloud computing, and machine learning**.  
+### 🚀 About Me  
 Currently at **Capgemini**, where I ranked in the **top 10% of trainees** in coding assessments.  
 Certified **AWS Cloud Practitioner**, passionate about building scalable web apps and AI‑driven solutions.
+
 
 ---
 
