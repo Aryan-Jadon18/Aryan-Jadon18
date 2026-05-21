@@ -1,79 +1,135 @@
+<div align="center">
 
-[![](https://raw.githubusercontent.com/Aryan-Jadon18/Aryan-Jadon18/main/banner.gif)](https://aryan-jadon-portfolio.vercel.app)
+# Aryan Singh Jadon
 
-<h1 align="center">Hi 👋, I'm Aryan Singh Jadon</h1>
-<h3 align="center">Software Engineer | React & Full‑Stack Developer | Cloud & AI Enthusiast</h3>
+### Software Engineer • Backend Systems • AI Automation • Full Stack Development
 
-<p align="center">
-  <a href="mailto:jadonaryansingh@gmail.com">📧 Email</a> • 
-  <a href="https://aryan-jadon-portfolio.vercel.app">🌐 Portfolio</a> • 
-  <a href="https://github.com/Aryan-Jadon18">💻 GitHub</a> • 
-  <a href="https://www.linkedin.com/in/aryan-j-4971ab1b7/">🔗 LinkedIn</a>
+Building scalable systems, AI-powered tools, and high-performance web applications.
+
+[LinkedIn](https://linkedin.com/in/aryan-j-4971ab1b7) •
+[Portfolio](https://aj-portfolio-nu.vercel.app) •
+[GitHub](https://github.com/Aryan-Jadon18) •
+[Email](mailto:jadonaryansingh@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```js
+const aryan = {
+    role: "Software Engineer",
+    company: "Capgemini",
+    location: "Pune, India",
+
+    focus: [
+        "Backend Systems",
+        "AI Automation",
+        "Scalable Architectures",
+        "Full Stack Development"
+    ],
+
+    technologies: {
+        backend: ["Node.js", "Express", "PostgreSQL", "MySQL"],
+        frontend: ["React", "Next.js"],
+        cloud: ["AWS", "Docker", "CI/CD"],
+        tools: ["GitHub Actions", "Zapier", "OAuth 2.0"]
+    },
+
+    currentlyBuilding: [
+        "AI-powered SaaS products",
+        "Workflow automation systems",
+        "LLM-integrated developer tools"
+    ]
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
 </p>
 
-
-
----
-
-### 🚀 About Me  
-Currently at **Capgemini**, where I ranked in the **top 10% of trainees** in coding assessments.  
-Certified **AWS Cloud Practitioner**, passionate about building scalable web apps and AI‑driven solutions.
-
-
----
-
-### 🛠 Languages
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### ⚙️ Technologies
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=githubactions)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
----
-
-### 🌟 Featured Projects
-[![](https://img.shields.io/badge/-🛒%20Ecommerce%20Website-000)](https://github.com/Aryan-Jadon18/ecommerce)
-[![](https://img.shields.io/badge/-🎵%20Music%20Streaming%20Website-000)](https://github.com/Aryan-Jadon18/music-streaming)
-[![](https://img.shields.io/badge/-🖼%20Slideshow%20Plugin-000)](https://github.com/Aryan-Jadon18/slideshow-plugin)
-[![](https://img.shields.io/badge/-🤖%20Handsfree%20Chat%20Assistant-000)](https://github.com/Aryan-Jadon18/chat-assistant)
-
----
-
-### 📜 Certifications
-- **AWS Certified Cloud Practitioner (CLF‑01)** – Amazon Web Services (Sep 2023)  
-- **Open Source Software Development, Linux & Git** – Linux Foundation (Nov 2022)  
-
----
-
-### 📝 Publications
-- **FAIRMod – Harmful Language Detection** (IEEE, Apr 2024)  
-- **Sign Language Detection** (IJFMR, Nov 2023)  
-
-<!--
-### 🏆 Awards
-- **Common Internship Test Winner** – Internship Studio (May 2023)  
--->
----
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aryanjadon" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="34" width="174">
-  </a>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
-<!--
-### 📊 GitHub Stats
-<p align="center">
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aryan-Jadon18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aryan-Jadon18&layout=compact&hide_border=true&theme=radical" />
-</p>-->
-<p align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql" />
 </p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+
+### Capgemini — Software Engineer
+
+- Improved deployment throughput by **1.4×** using CI/CD pipelines and API integrations
+- Reduced API latency from **~250ms to ~75ms**
+- Lowered CPU utilization by **14%** through database optimization
+- Reduced support tickets by **46%** by implementing OAuth 2.0 authentication
+- Built LLM-powered testing automation improving testing cycles by **32%**
+- Worked on AWS → Azure multi-cloud migration initiatives
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Automated Trading Agent
+Event-driven trading automation platform using Node.js, Zerodha Kite API, and Zapier.
+
+- Reduced signal execution latency by **50%**
+- Built scalable modular automation workflows
+- MVP shipped in **3 days**
+
+---
+
+### 🛍 Shopify Customer AI Support Integration
+AI-powered customer support automation system for Shopify stores.
+
+- Integrated across **3,000+ stores**
+- Processed **650,000+ customer queries**
+- Reduced support costs by **80%**
+
+---
+
+## 📚 Publications
+
+- **FAIRMod — Harmful Language Detection** *(IEEE, 2024)*
+- **Sign Language Detection** *(IJFMR, 2023)*
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Open Source Software Development, Linux & Git — Linux Foundation
+
+---
+
+## 📈 Current Focus
+
+- Scalable backend engineering
+- Distributed systems
+- AI workflow automation
+- System design
+- High-performance APIs
+
+---
+
+<div align="center">
+
+### “Build systems that scale. Build products that matter.”
+
+</div>
