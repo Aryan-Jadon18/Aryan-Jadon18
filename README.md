@@ -1,104 +1,68 @@
-````md
-<div align="center">
-
 # 🌟 Aryan Singh Jadon
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;AI+Automation+Builder;Full+Stack+Developer;Building+Scalable+Systems" />
+<div align="center">
 
-### 🚀 Software Engineer • Backend Systems • AI Automation • Full Stack Development
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;AI+Automation+Builder;Full+Stack+Developer;Building+Scalable+Systems"/>
 
-<img src="https://komarev.com/ghpvc/?username=Aryan-Jadon18&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://aj-portfolio-nu.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/aryan-j-4971ab1b7)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jadonaryansingh@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryan-j-4971ab1b7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=vercel)](https://aj-portfolio-nu.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github)](https://github.com/Aryan-Jadon18)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jadonaryansingh@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Aryan-Jadon18&label=Profile+Views&color=0e75b6&style=flat-square" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```javascript
-const aryan = {
-    role: "Software Engineer",
-    company: "Capgemini",
-    location: "Pune, India",
+<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true">
 
-    focus: [
-        "Backend Systems",
-        "AI Automation",
-        "Scalable Architectures",
-        "Full Stack Development"
-    ],
+### 👋 Hey there!
 
-    technologies: {
-        backend: ["Node.js", "Express", "PostgreSQL", "MySQL"],
-        frontend: ["React", "Next.js"],
-        cloud: ["AWS", "Docker", "CI/CD"],
-        tools: ["GitHub Actions", "Zapier", "OAuth 2.0"]
-    },
+* 💼 Software Engineer at **Capgemini**
+* 📍 Based in **Pune, India**
+* 🚀 Building **AI-powered SaaS products**
+* 🤖 Exploring **AI Agents & Workflow Automation**
+* ⚡ Passionate about **Backend Systems & System Design**
+* 🌱 Currently learning **Cloud & Distributed Systems**
+* 🎯 Goal: Build products that impact millions.
 
-    currentlyBuilding: [
-        "AI-powered SaaS products",
-        "Workflow automation systems",
-        "LLM-integrated developer tools"
-    ]
-};
-````
+<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
-</p>
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis" />
-</p>
 
 ### Cloud & DevOps
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux" />
-</p>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
+
+</div>
 
 ---
 
-# 🚀 Current Focus
-
-🌱 Building AI-powered SaaS products
-
-⚡ Exploring LLMs, RAG Systems & AI Agents
-
-🔥 Designing scalable backend architectures
-
-💡 Learning advanced cloud & distributed systems
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -114,23 +78,13 @@ const aryan = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aryan-Jadon18&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aryan-Jadon18&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan-Jadon18&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -140,63 +94,101 @@ const aryan = {
 
 ---
 
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan-Jadon18&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 HireSim AI
 
-AI-powered mock interview platform with:
+AI-powered mock interview platform.
 
-* GPT-4o Integration
-* Real-time Voice Interviews
-* Deepgram STT
-* ElevenLabs TTS
-* Live Coding Environment
+✅ GPT-4o Integration
+✅ Real-time Voice Interviews
+✅ Live Coding Environment
+✅ Deepgram + ElevenLabs
+✅ AI-generated Reports
 
----
+</td>
+
+<td width="50%">
 
 ### 🛒 Shopify Support AI
 
-AI customer support system for Shopify stores:
+AI customer support system.
 
-* OAuth Authentication
-* Order Tracking
-* AI Chat Widget
-* Automated Customer Support
+✅ Shopify OAuth
+✅ Order Tracking
+✅ AI Chat Widget
+✅ Automated Support
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📈 Algorithmic Trading Bot
 
-Production-grade trading system:
+Production-grade trading system.
 
-* Zerodha Kite API
-* Real-time Market Analysis
-* Automated Order Execution
-* Risk Management System
+✅ Zerodha Kite API
+✅ Automated Execution
+✅ Risk Management
+✅ Market Analytics
+
+</td>
+
+<td width="50%">
+
+### 🚀 Currently Building
+
+* AI SaaS Products
+* Workflow Automation
+* LLM Developer Tools
+* Scalable Backend Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://linkedin.com/in/aryan-j-4971ab1b7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="mailto:jadonaryansingh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 <a href="https://aj-portfolio-nu.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ "Building products that solve real problems through scalable engineering and AI."
+### ⚡ Building products that solve real problems through scalable engineering and AI.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B68EE&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B68EE&height=120&section=footer"/>
 
 </div>
-```
