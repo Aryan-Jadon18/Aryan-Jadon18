@@ -106,62 +106,39 @@
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 HireSim AI
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&section=header&text=🤖%20HireSim%20AI&fontColor=ffffff&fontSize=28"/>
 
-AI-powered mock interview platform.
+**AI-powered mock interview platform**
 
-✅ GPT-4o Integration
-✅ Real-time Voice Interviews
-✅ Live Coding Environment
-✅ Deepgram + ElevenLabs
-✅ AI-generated Reports
+✨ GPT-4o Integration • 🎤 Real-time Voice Interviews • 💻 Live Coding • 🧠 AI-generated Reports • 🔊 Deepgram + ElevenLabs
 
-</td>
+<br><br>
 
-<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=70&section=header&text=🛒%20Shopify%20Support%20AI&fontColor=ffffff&fontSize=28"/>
 
-### 🛒 Shopify Support AI
+**AI customer support solution for Shopify stores**
 
-AI customer support system.
+✨ Shopify OAuth • 📦 Order Tracking • 💬 AI Chat Widget • 🤖 Automated Customer Support
 
-✅ Shopify OAuth
-✅ Order Tracking
-✅ AI Chat Widget
-✅ Automated Support
+<br><br>
 
-</td>
-</tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=70&section=header&text=📈%20Algorithmic%20Trading%20Bot&fontColor=ffffff&fontSize=28"/>
 
-<tr>
-<td width="50%">
+**Production-grade algorithmic trading system**
 
-### 📈 Algorithmic Trading Bot
+✨ Zerodha Kite API • 📊 Market Analytics • ⚡ Automated Execution • 🛡️ Risk Management
 
-Production-grade trading system.
+<br><br>
 
-✅ Zerodha Kite API
-✅ Automated Execution
-✅ Risk Management
-✅ Market Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F59E0B&height=70&section=header&text=🚀%20Currently%20Building&fontColor=ffffff&fontSize=28"/>
 
-</td>
+**What I'm working on right now**
 
-<td width="50%">
+✨ AI SaaS Products • 🤖 Workflow Automation • 🧠 LLM Developer Tools • ☁️ Scalable Backend Systems
 
-### 🚀 Currently Building
-
-* AI SaaS Products
-* Workflow Automation
-* LLM Developer Tools
-* Scalable Backend Systems
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
