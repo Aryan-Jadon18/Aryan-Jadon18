@@ -34,29 +34,17 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+| Category | Technologies |
+| :--- | :--- |
+| 💻 Languages | <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" /> |
+| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /> |
+| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis" /> |
+| ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux" /> |
+| 🔧 Tools | <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /> |
 
 </div>
 
