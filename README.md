@@ -95,40 +95,51 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&section=header&text=🤖%20HireSim%20AI&fontColor=ffffff&fontSize=28"/>
+<td align="center" width="25%">
 
-**AI-powered mock interview platform**
+### 🤖 HireSim AI
 
-✨ GPT-4o Integration • 🎤 Real-time Voice Interviews • 💻 Live Coding • 🧠 AI-generated Reports • 🔊 Deepgram + ElevenLabs
+AI mock interview platform
 
-<br><br>
+`GPT-4o` • `Voice` • `Coding`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=70&section=header&text=🛒%20Shopify%20Support%20AI&fontColor=ffffff&fontSize=28"/>
+</td>
 
-**AI customer support solution for Shopify stores**
+<td align="center" width="25%">
 
-✨ Shopify OAuth • 📦 Order Tracking • 💬 AI Chat Widget • 🤖 Automated Customer Support
+### 🛒 Shopify Support AI
 
-<br><br>
+AI support for Shopify stores
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=70&section=header&text=📈%20Algorithmic%20Trading%20Bot&fontColor=ffffff&fontSize=28"/>
+`OAuth` • `Orders` • `Automation`
 
-**Production-grade algorithmic trading system**
+</td>
 
-✨ Zerodha Kite API • 📊 Market Analytics • ⚡ Automated Execution • 🛡️ Risk Management
+<td align="center" width="25%">
 
-<br><br>
+### 📈 Trading Bot
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F59E0B&height=70&section=header&text=🚀%20Currently%20Building&fontColor=ffffff&fontSize=28"/>
+Algorithmic trading system
 
-**What I'm working on right now**
+`Zerodha` • `Analytics` • `Risk`
 
-✨ AI SaaS Products • 🤖 Workflow Automation • 🧠 LLM Developer Tools • ☁️ Scalable Backend Systems
+</td>
 
-</div>
+<td align="center" width="25%">
 
+### 🚀 Currently Building
+
+AI SaaS & Developer Tools
+
+`LLMs` • `Agents` • `Backend`
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🌐 Connect With Me
