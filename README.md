@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/aryan-j-4971ab1b7)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jadonaryansingh@gmail.com)
 
+
 <img src="https://komarev.com/ghpvc/?username=Aryan-Jadon18&label=Profile+Views&color=0e75b6&style=flat-square" />
 
 </div>
