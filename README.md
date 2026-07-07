@@ -67,9 +67,7 @@
 # 🔥 GitHub Streak
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Aryan-Jadon18&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
