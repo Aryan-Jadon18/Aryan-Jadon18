@@ -6,6 +6,7 @@
 
 <br>
 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://aj-portfolio-nu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/aryan-j-4971ab1b7)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jadonaryansingh@gmail.com)
